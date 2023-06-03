@@ -1,0 +1,10 @@
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\bin\Debug\Animation Render.exe.config
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\bin\Debug\Animation Render.exe
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\bin\Debug\Animation Render.pdb
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\obj\Debug\Animation Render.csproj.AssemblyReference.cache
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\obj\Debug\Animation_Render.Form1.resources
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\obj\Debug\Animation_Render.Properties.Resources.resources
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\obj\Debug\Animation Render.csproj.GenerateResource.cache
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\obj\Debug\Animation Render.csproj.CoreCompileInputs.cache
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\obj\Debug\Animation Render.exe
+C:\Users\UwU.cs\source\repos\Animation Render\Animation Render\obj\Debug\Animation Render.pdb
